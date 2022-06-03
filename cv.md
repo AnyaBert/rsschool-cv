@@ -30,7 +30,7 @@ Hello! My name is Anya. I am 26 years old. And I want to learn how to code.
 ### Languages
 ---
 * English - B1/B2
-[My English](https://media-exp1.licdn.com/dms/image/sync/C5627AQHEXh6RtMAHyQ/articleshare-shrink_800/0/1654151594098?e=1654894800&v=beta&t=_DmxGet2SXcB1ViBvlZkWtGXY1Ml9kkJH_cdu-9j-2A)
+![My English](https://media-exp1.licdn.com/dms/image/sync/C5627AQHEXh6RtMAHyQ/articleshare-shrink_800/0/1654151594098?e=1654894800&v=beta&t=_DmxGet2SXcB1ViBvlZkWtGXY1Ml9kkJH_cdu-9j-2A)
 * Polish - A1
 * Russian - Native
 ***
