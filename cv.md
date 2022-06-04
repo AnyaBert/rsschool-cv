@@ -1,6 +1,6 @@
 # Anna Pashkevich
 ## Junior Front-end Developer
----
+
 ### Contact
 ---
 * Location: Wrocław, Poland
@@ -9,23 +9,23 @@
 * [Linkedin](https://www.linkedin.com/in/anya-pashkevich-b8462323b/)
 * [GitHub](https://github.com/AnyaBert)
 * [Telegram](https://t.me/annybert)
----
+
 ### About me
 ---
 Hello! My name is Anya. I am 26 years old. And I want to learn how to code.
----
+
 ### Skills
 ---
 * HTML/CSS
 * JavaScript
 * Git/Github
----
+
 ### Education
 ---
 * International Sakharov Environmental Institute of BSU
     + Information Systems and Technologies (in ecology)
         - Environmental Software Engineer
----
+
 ### Languages
 ---
 * English - B1/B2
