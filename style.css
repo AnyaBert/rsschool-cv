@@ -52,6 +52,7 @@ body {
 .photo {
     border-radius: 20px 20px;
     margin-left: 20px;
+    height: 280px;
 }
 
 .title {
@@ -120,6 +121,7 @@ body {
 
 .english {
     border-radius: 20px 20px;
+    height: 200px;
 }
 
 .container-footer {
@@ -145,4 +147,8 @@ body {
 .footer-git a {
     text-decoration: none;
     color: black;
+}
+
+.footer-logo img {
+    height: 25px;
 }
