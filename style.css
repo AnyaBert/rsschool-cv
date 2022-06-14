@@ -1,0 +1,148 @@
+@media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
+
+* {
+    box-sizing: border-box;
+  }
+
+body {
+    font-family: 'Tiro Gurmukhi', serif;
+    background-image: url(assets/img/background.jpg);
+    background-size: 1100px 1100px;
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    max-width: 700px;
+    max-height: 1500px;
+    margin: 0 auto;
+    padding: 0;
+    background-color: rgba(201, 197, 197, 0.856);
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-around;
+    padding: 0 20px;
+    line-height: 30px;
+    list-style: none;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: rgb(167, 19, 80);
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.nav-item:hover {
+    transform: scale(1.2);
+    transition: 5ms;
+}
+
+.nav-item .fa {
+    color: black;
+}
+
+.photo {
+    border-radius: 20px 20px;
+    margin-left: 20px;
+}
+
+.title {
+    width: 400px;
+    float: right;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.job {
+    color: rgb(167, 19, 80);
+}
+
+.contacts {
+    display: grid;
+    grid-template-columns: repeat(3, 200px);
+    justify-content: left;
+    padding: 0;
+    margin-left: 10px;
+    list-style: none;
+    white-space: nowrap;
+    line-height: 30px;
+}
+
+.contacts .fa {
+    color: rgb(167, 19, 80);
+}
+
+.section-title {
+    color: rgb(167, 19, 80);
+    text-align: center;
+}
+
+.section {
+    margin-left: 20px;
+}
+
+.contacts a {
+    text-decoration: none;
+    color: black;
+}
+
+.contacts-list:hover {
+    transform: scale(1.2);
+    transition: 5ms;
+}
+
+.about {
+    text-align: initial;
+}
+
+.skills {
+    display: grid;
+    grid-template-columns: repeat(3, 250px);
+    justify-content: left;
+    padding: 0;
+    margin-left: 10px;
+    list-style: none;
+    white-space: nowrap;
+    line-height: 30px;
+}
+
+.skills .fa {
+    color: rgb(167, 19, 80);
+}
+
+.english {
+    border-radius: 20px 20px;
+}
+
+.container-footer {
+    display: grid;
+    grid-template-columns: repeat(3, 300px);
+    justify-content: left;
+    padding: 0;
+    margin-left: 10px;
+    list-style: none;
+    white-space: nowrap;
+    line-height: 30px;
+}
+
+.footer-year {
+    color: rgb(167, 19, 80);
+    font-weight: bold;
+}
+
+.footer-git .fa {
+    color: rgb(167, 19, 80);
+}
+
+.footer-git a {
+    text-decoration: none;
+    color: black;
+}
